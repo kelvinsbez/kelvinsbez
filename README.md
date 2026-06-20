@@ -56,5 +56,5 @@ Olá! Sou um desenvolvedor fullstack focado em construir aplicações web modern
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=a4a0be&fire=a4a0be&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d" alt="GitHub Streak" height="85" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=a4a0be&fire=a4a0be&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d" alt="GitHub Streak" height="170" />
 </div>
