@@ -52,9 +52,10 @@ Olá! Sou um desenvolvedor fullstack focado em construir aplicações web modern
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kelvinsbez&show_icons=true&locale=pt-br&title_color=a4a0be&icon_color=a4a0be&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="GitHub Stats" height="180" />
+  <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsbez&layout=compact&langs_count=8&locale=pt-br&title_color=a4a0be&icon_color=a4a0be&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top Languages" height="180" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
+  <br/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=a4a0be&fire=a4a0be&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d" alt="GitHub Streak" height="170" />
 </div>
