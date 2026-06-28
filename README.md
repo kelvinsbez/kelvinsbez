@@ -46,7 +46,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsbez&layout=compact&langs_count=8&locale=pt-br&title_color=c9c&icon_color=c9c&text_color=24292f&bg_color=ffffff&border_color=c9c">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsbez&layout=compact&langs_count=8&locale=pt-br&title_color=c9c&icon_color=c9c&text_color=c9d1d9&bg_color=0d1117&border_color=c9c" height="180" />
   </picture>
-
+</br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=c9c&fire=c9c&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=c9c">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&background=ffffff&ring=c9c&fire=c9c&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=24292f&border=c9c">
