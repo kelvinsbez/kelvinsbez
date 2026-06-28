@@ -1,5 +1,6 @@
 import datetime
 import requests
+import os
 
 # CONFIGURAÇÕES PESSOAIS
 USERNAME = "kelvinsbez"
@@ -22,11 +23,15 @@ if meses < 0:
 uptime_str = f"{anos} years, {meses} months, {dias} days"
 
 #BUSCA DE DADOS NA API DO GITHUB
+token = os.getenv("GITHUB_TOKEN")
+headers = {"Authorization": f"token {token}"} if token else {}
+
 try:
-    response = requests.get(f"https://api.github.com/users/{USERNAME}").json()
+    response = requests.get(f"https://api.github.com/users/{USERNAME}", headers=headers).json()
     followers = response.get("followers", 0)
     public_repos = response.get("public_repos", 0)
-except Exception:
+except Exception as e:
+    print(f"Erro ao buscar API: {e}")
     followers = 0
     public_repos = 0
 
