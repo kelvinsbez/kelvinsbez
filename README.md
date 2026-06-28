@@ -50,6 +50,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=c9c&fire=c9c&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=c9c">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&background=ffffff&ring=c9c&fire=c9c&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=24292f&border=c9c">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=c9c&fire=c9c&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=c9c" height="170" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsbez&theme=dark&background=0d1117&ring=c9c&fire=c9c&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=c9c" height="180" />
   </picture>
 </div>
