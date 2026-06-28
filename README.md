@@ -20,7 +20,7 @@
 
 ---
 
-### 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖
+### Sobre mim
 
 Olá! Sou um desenvolvedor fullstack focado em construir aplicações web modernas, robustas e escaláveis. Adoro resolver problemas complexos e criar soluções elegantes.
 
@@ -30,7 +30,7 @@ Olá! Sou um desenvolvedor fullstack focado em construir aplicações web modern
 
 ---
 
-### 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜 𝚎 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜
+### Tecnologias e Ferramentas
 <p align="left">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-474747?style=for-the-badge&logo=openjdk&logoColor=ededed" alt="Java" />
@@ -48,7 +48,7 @@ Olá! Sou um desenvolvedor fullstack focado em construir aplicações web modern
 
 ---
 
-### 𝙴𝚜𝚝𝚊𝚝í𝚜𝚝𝚒𝚌𝚊𝚜 𝚍𝚘 𝙶𝚒𝚝𝚑𝚞𝚋
+### Estatísticas do Github
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kelvinsbez&show_icons=true&locale=pt-br&title_color=474747&icon_color=474747&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="GitHub Stats" height="180" />
